@@ -4,6 +4,44 @@ body {
         font-size: 12pt;
         color:black;
         background-color: #FFCC66;
+        margin: 30px;
+}
+h1
+{
+	background-color: #ffdd66;
+	font-size: 20pt;
+	font-family: arial;
+	color: blue;
+	border: 1px black solid;
+	border-radius: 10px;
+	margin-left: 30px;
+	padding-left: 30px; 
 }
 
+/*
+ul {
+	list-style-image: url("../img/flecha-azul.png");
+}
+*/
+
+.punto {
+	list-style-image: url("../img/punto-rojo.png");
+}
+.uno {
+	list-style-image: url("../img/flecha-azul.png");
+}
+
+.dos {
+	list-style-image: url("../img/flecha-verde.png");
+}
+
+ol#romano {
+	list-style-type: lower-roman;
+}
+ol#letra {
+	list-style-type: lower-alpha;
+}
+ol#decimal {
+	list-style-type: decimal;
+}
 
