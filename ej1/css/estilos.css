@@ -1,0 +1,56 @@
+    @font-face{
+        font-family: "prueba";
+        src: url ("../ttf/Kidsn.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body {
+        font-family: verdana;
+        font-size: 12pt;
+        color:black;
+        background-color: #FFCC66;
+
+       /* background: -webkit-radial-gradient(10%, ellipse farthestcorner, #66f 60%, #f80 85%, #ffc);
+background: -moz-radial-gradient(10%, ellipse farthest-corner,
+#66f 60%, #f80 85%, #ffc);
+background: radial-gradient(10%, ellipse farthest-corner, #66f
+60%, #f80 85%, #ffc);*/
+        
+
+        background-image: url("../img/mariposa.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+
+        }
+    span{
+        color:red;
+        font-size: 14pt;
+    }
+    h1 {
+    	font-family: "prueba";
+    	font-size: 20pt;
+        text-transform: capitalize;
+        text-shadow: 2px 3px 1px gray;
+    	color:blue;
+    	border-bottom: 3px outset white;
+    	text-align: center;
+    }
+    table
+    {
+    	text-align: center;
+        width: 100%
+    }
+    th
+    {
+    	background: purple;
+    	color:yellow;
+    }
+    td
+    {
+    	background:white;
+    	color:black;
+    }
+
+
