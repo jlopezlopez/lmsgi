@@ -1,13 +1,17 @@
+    @import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+    @import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+   
     @font-face{
-        font-family: "prueba";
-        src: url ("../ttf/Kidsn.ttf") format("truetype");
+        font-family: "Honeyday";
+        src: url ("../ttf/Honeyday.ttf") format("truetype");
         font-weight: normal;
         font-style: normal;
     }
 
+
     body {
-        font-family: verdana;
-        font-size: 12pt;
+        font-family: Arial;
+        font-size: 14pt;
         color:black;
         background-color: #FFCC66;
 
@@ -29,13 +33,24 @@ background: radial-gradient(10%, ellipse farthest-corner, #66f
         font-size: 14pt;
     }
     h1 {
-    	font-family: "prueba";
-    	font-size: 20pt;
+    	font-family: Honeyday;
+    	font-size: 50pt;
         text-transform: capitalize;
         text-shadow: 2px 3px 1px gray;
     	color:blue;
     	border-bottom: 3px outset white;
     	text-align: center;
+    }
+
+    h2 {
+        font-family: "Press Start 2P", cursive;
+        color:red;
+        font-size: 30pt;
+    }
+    .Quest {
+        font-family: "Mystery Quest", cursive;
+        color:green;
+        font-size: 30pt;
     }
     table
     {
