@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>Pedidos Pizzas Artesanas</title>
+	<link rel="stylesheet" type="text/css" href="./css/estilos.css">
+</head>
+<body>
+	<header id="cabecera">
+		<h1>Pizzas Artesanas</h1>
+    </header>
+    <nav id="barra-nav">
+    	<ul>
+		<li><a href="Pedidos.html" target="_blank">Pedidos</a></li>
+		<li><a href="Horarios.html">Horarios</a></li>
+		<li><a href="Productos.html">Productos</a></li>
+		<li><a href="Ej10-index.html">Inicio</a></li>
+		</ul>
+	</nav>
+	<section id="principal">
+		<h1 class="h1-principal">Datos de pedidos</h1>
+		<form action="enviar.php" method="post">
+		<div class="form_datos">
+		<fieldset>
+			<legend>Datos cliente</legend>
+			<label for="nombre">Nombre:</label> <input type="text" name="nombre" id="nombre" maxlength="50" size="50" />
+			<label for="apellidos">Apellidos:</label> <input type="text" name="apellidos" id="apellidos" maxlength="50" size="50" />
+			<label for="telefono">Teléfono:</label> <input type="tel" name="telefono" id="telefono" maxlength="9" placeholder="#########" />
+
+			<label for="direccion">Dirección:</label> <input type="text" name="direccion" id="direccion" size="50" maxlength="250" />
+
+			<label for="correo">Correo:</label> <input type="email" name="correo" id="correo" size="50" maxlength="100" />
+		</fieldset>
+		</div>
+		<div class="form_productos">
+		<fieldset>
+			<legend>Datos pedido</legend>
+			 Entrega
+			<label><input type="radio" name="entrega" value="D">Domicilio</label>
+			<label><input type="radio" name="entrega" value="1">Local</label>
+			Pizzas
+			<label><input type="checkbox" name="pizza1" value="1">Barbacoa</label>
+			<label><input type="checkbox" name="pizza2" value="1">Peperoni</label>
+			<label><input type="checkbox" name="pizza3" value="1">4 Quesos</label>
+			<label for="entrega">Entrega</label>
+			<select name="entrega">
+			<option value="L">Local</option>	
+			<option value="D">Domicilio</option>
+			</select>
+		</fieldset>
+		</div>	
+		<p>
+		<div class="botonera">
+		<input type="submit" value="Enviar" />
+		<input type="reset" value="Borrar" />
+		</div>
+		</form>	
+	</section>
+	<aside id="lateral">
+		<h2>Novedades</h2>
+		<p>
+			Pedidos a domicilio sin cargo.
+		</p>
+		<p>
+			Nuevas instalaciones
+		</p>
+	
+	</aside>
+	<footer id="pie">
+		<p>
+		Desarrollo web estático se distribuye bajo licencia
+			Creative Commons Atribución-NoComercial-CompartirIgual 3.0
+			Unported
+		</p>
+	</footer>
+</body>
+</html>
+	

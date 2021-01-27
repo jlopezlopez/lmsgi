@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/html-lmsgi/Ej14-Grid/Ej14-Grid.html",
+			"settings":
+			{
+				"buffer_size": 1611,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/html-lmsgi/Ej14-Grid/css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 1423,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/html-lmsgi/ej2-listas/listas.html",
+			"settings":
+			{
+				"buffer_size": 2973,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/html-lmsgi/Ej10-Formularios",
+		"/D/html-lmsgi/Ej10-Formularios/css"
+	],
+	"file_history":
+	[
+		"/D/html-lmsgi/Ej13-Flex/Ej13-2-responsive.html",
+		"/C/Users/Fita/Downloads/Actv3-carlos/Nueva carpeta/index.html",
+		"/C/Users/Fita/Downloads/Actv3-carlos/Nueva carpeta/main.css",
+		"/C/Users/Fita/Downloads/flexbox/css/estilo.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo8_Responsive_video.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/formulario_alta_flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/css/estilo_flex_formulario.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/index.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios/areademapa/mapa.html",
+		"/C/xampp/htdocs/LoginResponsive/css/estilo_flex_formulario.css",
+		"/C/xampp/htdocs/LoginResponsive/index.php",
+		"/C/xampp/htdocs/LoginResponsive/formulario_alta.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/css/estiloCol_Float_formulario.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/formulario_alta_columnas.html",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 3-Ataques/PEC3/ObtenerInfo.php",
+		"/C/xampp/htdocs/loginUOC/webapps/cas/login.php",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/css/estilos.css",
+		"/C/xampp/htdocs/LoginResponsive/bienvenida.html",
+		"/C/xampp/htdocs/LoginResponsive/css/estilos.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Login-Registro/formulario_alta.html",
+		"/C/Users/Fita/Desktop/Correcciones/Responsive/Responsive-FlexBox.html",
+		"/C/Users/Fita/Desktop/Correcciones/Responsive/css/estilos.css",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Seguridad y pentesting de servidores de datos/Modulo 3-Ataques a BBDD/PEC-3/PHP/P4-WEB/css/bootstrap.min.css",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Seguridad y pentesting de servidores de datos/Modulo 3-Ataques a BBDD/PEC-3/PHP/P4-WEB/css/signin.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo2_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo8_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo1_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo7_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo4_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo5_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo3_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo4_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo7_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo5_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo6_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo7_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Realizadas/Ejemplo1_Flex.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo4_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo5_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo6_Responsive_Fuente.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo7_Responsive_imagen.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo2_Responsive.html",
+		"/C/Users/Fita/Desktop/prueba.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Práctica_FlexBoxResponsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo1_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo6_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo8_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo9_Responsive_Bootstrap-1.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo3_Responsive.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/ejemplos Responsive/Ejemplo7_Responsive.html",
+		"/D/html-lmsgi/Ej13-Flex/Ej13-1.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios/RA2_5_Maquetación Responsive/Ej12-0.html",
+		"/D/html-lmsgi/Ej12-Responsive/Ej12-1.html",
+		"/D/html-lmsgi/Ej12-Responsive/css/Ej12-1.1.css",
+		"/D/html-lmsgi/Ej12-Responsive/Ej12-2.html",
+		"/D/html-lmsgi/Ej12-Responsive/css/Ej12-3.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios/RA2_5_Maquetación Responsive/css/Ej12-1.1.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios/RA2_5_Maquetación Responsive/Ej12-1.html",
+		"/D/html-lmsgi/Ej12-Responsive/css/Ej12-2.css",
+		"/D/html-lmsgi/Ej12-Responsive/Ej12-0.html",
+		"/D/html-lmsgi/Ej12-Responsive/Ej12-3.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P1-RA2/Ex-index.html",
+		"/D/html-lmsgi/Ej11-Responsive/Ej11.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P1-RA2/css/estilos.css",
+		"/D/html-lmsgi/Ej11-Responsive/css/impresora.css",
+		"/D/html-lmsgi/Ej11-Responsive/css/pantalla.css",
+		"/C/Users/Fita/eclipse/javascript-2020-09/eclipse/configuration/org.eclipse.osgi/127/0/.cp/intro/css/default.css",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Seguridad y pentesting de servidores de datos/Modulo 3-Ataques a BBDD/PEC-3/Act3_PEC3_Generar_PayLoad_BSQLI.py",
+		"/C/Users/Fita/Downloads/cabezera.css",
+		"/D/html-lmsgi/prueba/prueba.html",
+		"/D/html-lmsgi/prueba/estilos.css",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Seguridad y pentesting de servidores de datos/Modulo 4-Auditoria y desarrollo seguro/sqli-web/login.html",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Seguridad y pentesting de servidores de datos/Modulo 4-Auditoria y desarrollo seguro/sqli-web/login.php",
+		"/D/html-lmsgi/Ej10-Formularios/css/estilos.css",
+		"/D/html-lmsgi/Ej10-Formularios/pedidos.html",
+		"/D/html-lmsgi/Ex-P1-RA2/Ex-index.html",
+		"/D/html-lmsgi/Ex-P1-RA2/css/estilos.css",
+		"/D/html-lmsgi/Ex-P1-RA2/texto_parrafo.txt",
+		"/D/html-lmsgi/ej1/css/estilos.css",
+		"/D/html-lmsgi/Ej10-Formularios/Ej10-Index.html",
+		"/C/Users/Fita/Downloads/PA2_TablasHidalgoRiveraLaura/css/estilos.css",
+		"/C/Users/Fita/Downloads/PA2_TablasHidalgoRiveraLaura/pa2tablas.html",
+		"/C/Users/Fita/Downloads/PR2.REPASODETABLAS.VIRGINIA ORDOÑO/pr2repasotablas_VIRGINIAORDOÑO.html",
+		"/C/Users/Fita/Downloads/PR2.REPASODETABLAS.VIRGINIA ORDOÑO/css/estilosgym.css",
+		"/C/Users/Fita/Downloads/Práctica 2 - Repaso de tablas joaquinbaenasalas/repaso2/css/estilo.css",
+		"/C/Users/Fita/Downloads/Práctica 2 - Repaso de tablas joaquinbaenasalas/repaso2/repaso2.html",
+		"/C/Users/Fita/Downloads/Repaso de Tablas_DVMJ/Repaso de Tablas/tablas.html",
+		"/C/Users/Fita/Downloads/Repaso de Tablas_DVMJ/Repaso de Tablas/tabla.css",
+		"/C/Users/Fita/Downloads/tomas/PA2_Tablas/styles.css",
+		"/C/Users/Fita/Downloads/tomas/PA2_Tablas/index.html",
+		"/C/Users/Fita/Downloads/HidalgoRivera-Laura/Laura-HR.html",
+		"/C/Users/Fita/Downloads/HidalgoRivera-Laura/css/Laura-HR.css",
+		"/C/Users/Fita/Downloads/HidalgoRisco-Carlos/Carlos-HR.html",
+		"/C/Users/Fita/Downloads/HidalgoRisco-Carlos/css/Carlos-HR.css",
+		"/C/Users/Fita/Downloads/PRACTICA 1. REPASO ELEMENTOS DE TEXTO/css/virginia-ob.css",
+		"/C/Users/Fita/Downloads/PRACTICA 1. REPASO ELEMENTOS DE TEXTO/virginia-ob.html",
+		"/C/Users/Fita/Downloads/TorresMarmol-Javier/Actividad1/Javier-TM.html",
+		"/C/Users/Fita/Downloads/TorresMarmol-Javier/Actividad1/estilo/Javier-TM.css",
+		"/C/Users/Fita/Downloads/RepasoFranciscoJoséGómezRuiz/css/css.css",
+		"/C/Users/Fita/Downloads/Repaso-PabloBretónRuiz/Repaso/css/css.css",
+		"/C/Users/Fita/Downloads/Repaso-PabloBretónRuiz/Repaso/html.html",
+		"/C/Users/Fita/Downloads/RepasoFranciscoJoséGómezRuiz/EjercicioderepasoFranciscoJoséGómezRuiz.html",
+		"/C/Users/Fita/Downloads/BaenaSalas-Joaquin/Joaquin-bs.html",
+		"/C/Users/Fita/Downloads/BaenaSalas-Joaquin/estilo/Joaquin-bs.css",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 3-Ataques/PEC3/Act2_PEC3.py",
+		"/C/Users/Fita/Downloads/CarlosChaves/CarlosChaves/practica1.css",
+		"/C/Users/Fita/Downloads/CarlosChaves/CarlosChaves/practica1.html",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 2 Criptografía/PEC2/prueba.py",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 2 Criptografía/PEC2/colisiones.py",
+		"/D/html-lmsgi/Ej9-Formularios/prueba.html",
+		"/D/html-lmsgi/Ej9-Formularios/Ej9-1.html",
+		"/D/html-lmsgi/index.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/ej8-1.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/img/img-ej8-1.jpg",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/css/estilos.css",
+		"/D/html-lmsgi/Formulario/formulario.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-1.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-2.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-7.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/ejercicio7-menu.html",
+		"/D/html-lmsgi/Ej8-maquetacion/ej8-1.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/css/ej8-1.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-3.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-4.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-6.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-5.html",
+		"/C/Users/Fita/Desktop/menu.html",
+		"/D/html-lmsgi/Ej5-cajasBordes/Ejercicio-cajas5.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row",
+			"col-25",
+			"alert",
+			"<!",
+			"sr-only",
+			"}\n",
+			"logo",
+			";\n",
+			"heig",
+			"h1",
+			"architectsdaughter",
+			"paidload",
+			"%;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"payload"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\html-lmsgi\\Ej10-Formularios"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/html-lmsgi/Ej14-Grid/Ej14-Grid.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/html-lmsgi/Ej14-Grid/css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/html-lmsgi/ej2-listas/listas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

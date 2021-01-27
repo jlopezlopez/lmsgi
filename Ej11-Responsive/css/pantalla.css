@@ -1,0 +1,16 @@
+/* pantalla.css */
+body { font-family: sans-serif; }
+
+h1 { text-align: center; 
+	text-transform: uppercase; 
+	color: red; 
+}
+.izq{
+	width: 80%;
+	float: left;
+}
+.der
+{
+	width: 15%;
+	float: left;
+}

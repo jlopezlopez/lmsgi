@@ -1,0 +1,156 @@
+@font-face{
+        font-family: "Dosis";
+        src: url ("../ttf/Dosis-Regular.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+    }
+body
+{
+	background-color: darkGrey;
+}
+#cabecera{
+	margin-top: 10px;
+	padding: 10px;
+	background-image: url('../img/Banner-pizza.jpg');
+	opacity: 0.5;
+	width: 97%;
+}
+
+#cabecera h1
+{
+	color: white;
+	margin: 1em 1em 1em 4em; 
+	font-family: Dosis;
+	font-size: 3em;
+	text-shadow: 2px 3px 1px black;
+	border-color:30px solid red;
+}
+#barra-nav
+{
+	width: 100%
+}
+#barra-nav > ul
+{
+	margin-right: 2em;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+ 	background-color: #333;
+}
+#barra-nav > ul > li
+{
+	float: right;
+}
+#barra-nav ul li a
+{
+	font-family: Arial;
+	display: block;
+	color: white;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+}
+
+#barra-nav ul li a:hover {
+  background-color: #aaa;
+}
+
+/* Menu desplegable*/
+#barra-nav li > ul {
+				display:none;
+				position:absolute;
+				list-style-type: none;
+			}
+#barra-nav li:hover > ul {
+		display:block;
+}
+
+#barra-nav li ul li a {			
+	font-family: arial;
+	color: white;
+	background-color: black;
+  	text-align: center;
+  	text-decoration: none;
+  	position: relative;
+  	right: 2.5em;
+ }
+
+#barra-nav ul >li > ul > li> a:hover {
+  background-color: #ffa;
+  color:blue;
+  font-weight: bold;
+}
+
+#principal
+{
+	margin-left: 2%;
+	width: 70%;
+	float:left;
+	border-right: 2px black solid;
+	margin-bottom: 10px;
+}
+#lateral
+{
+	width: 25%;
+	margin-left: 2%;
+	float: left;
+}
+
+.img-pizza
+{
+	font-family: arial;
+	
+	width: 25%;
+	padding: 2%;
+	float: left;
+}
+.nombre-pizza{
+	Color:green;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.h1-principal
+{
+	font-family: Dosis;
+	text-shadow: 2px 3px 1px darkGrey;
+	font-size: 2em;
+	width: 80%;
+	text-align: center;
+	background-color:#f9ffaa;
+	clear:left;
+
+}
+#pie
+{
+	clear: left;
+	font-size: 0.75em;
+	background-color: black;
+	color:white;
+	position: relative;
+	text-align: right;
+	padding: 10px;
+	bottom: 1%;
+	width: 97%;
+}
+.form_datos
+{
+	width: 50%;
+	float: left;
+}
+.form_productos
+{
+	width: 45%;
+	float: left;
+}
+.botonera
+{
+	padding: 2%;
+	clear: left;
+}
+label
+{
+	display: block;
+	padding: 3px;
+}
+

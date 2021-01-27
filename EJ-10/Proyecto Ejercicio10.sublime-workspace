@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/html-lmsgi/EJ-10"
+	],
+	"file_history":
+	[
+		"/D/html-lmsgi/ej2-listas/listas.html",
+		"/D/html-lmsgi/Ej10-Formularios/Menu-desplegable.html",
+		"/D/html-lmsgi/EJ-10/Pedidos.html",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 3-Ataques/PEC3/ObtenerInfo.php",
+		"/D/html-lmsgi/Ej9-Formularios/prueba.html",
+		"/D/html-lmsgi/Ej10-Formularios/css/estilos.css",
+		"/D/html-lmsgi/Ej9-Formularios/Ej9-1.html",
+		"/D/html-lmsgi/ej1/css/estilos.css",
+		"/D/html-lmsgi/Ej10-Formularios/pedidos.html",
+		"/D/html-lmsgi/Ej10-Formularios/Ej10-Index.html",
+		"/D/html-lmsgi/index.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/ej8-1.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/img/img-ej8-1.jpg",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/css/estilos.css",
+		"/D/html-lmsgi/Formulario/formulario.html",
+		"/D/personal/Master Ciberseguridad/Asignaturas/Fundamentos Ciberseguridad/Modulo 3-Ataques/PEC3/Act2_PEC3.py",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-1.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-2.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-7.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/ejercicio7-menu.html",
+		"/D/html-lmsgi/Ej8-maquetacion/ej8-1.html",
+		"/D/html-lmsgi/Ej8-maquetacion/Solucion/css/ej8-1.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-3.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-4.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-6.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-5.html",
+		"/C/Users/Fita/Desktop/menu.html",
+		"/D/html-lmsgi/Ej5-cajasBordes/Ejercicio-cajas5.html",
+		"/D/html-lmsgi/Ej5-cajasBordes/estilos/ej5estilo.css",
+		"/D/html-lmsgi/Ej5-cajasBordes/css/estilosEj5.css",
+		"/D/html-lmsgi/index_1.html",
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-6-Ejemplo Overflow-x.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-2-Absoluto.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-4-index.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-5-Posicionamiento en la imagen.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-3-fixed.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-2.html",
+		"/D/html-lmsgi/Ej6-Posicionamiento/Ejercicio6-1-Relativo.html",
+		"/D/html-lmsgi/Eje4/estilos/estilosEj4.css",
+		"/D/html-lmsgi/ej1/ej1.html",
+		"/D/html-lmsgi/Eje4/ej4.html",
+		"/D/html-lmsgi/Ej5-cajasBordes/Ej5_CajasBordes",
+		"/C/Users/Fita/AppData/Local/Temp/Rar$DIa2024.5284/demo.css",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios HTML Básico/horario.html",
+		"/D/html-lmsgi/ej1/ej2.html",
+		"/D/html-lmsgi/ej1/tabla-colgroup.html",
+		"/D/html-lmsgi/ej1/index - copia.html",
+		"/C/Users/Fita/Desktop/prueba.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios HTML Básico/lista_definicion.html",
+		"/D/HTML/Ejercicio1.html",
+		"/C/Users/Fita/Desktop/holaMundo2.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios HTML Básico/ejercicio1.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios HTML Básico/ejercicio2.html",
+		"/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Ejercicios HTML Básico/ejercicio3_solución.html"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Proyecto Ejercicio10.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

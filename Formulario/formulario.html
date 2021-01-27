@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Formulario</title>
+</head>
+<body>
+ 	<h1>Controles de formulario</h1>
+ 	<form action="alta.php" method="post" accept-charset="utf-8">
+ 		<fieldset>
+ 			<legend>Datos personales</legend>
+ 			<label for="nombre"> Nombre</label>
+ 			<input type="text" name="nombre" size="30" maxlength="35" tabindex="1" accesskey="n" />
+ 			<br/>
+ 			<label for="password">Contraseña</label>
+ 			
+ 			<input type="password" name="password" size="30" maxlength="35" accesskey="p">
+			<br/>
+ 			<label for="busqueda">Campo de búsqueda</label>
+ 			
+ 			<input type="search" name="busqueda" size="50" maxlength="100" tabindex="2" accesskey="b">
+ 			<br>
+ 			<label for="tlfno">Teléfono</label>
+
+ 			<input type="tel" name="tlfno" size="9" maxlength="9" tabindex="3" accesskey="t" required placeholder="#########" pattern="[0-9]{9}"/>
+			<br>
+ 			<label for="e-mail">e-mail</label>
+
+ 			<input type="email" name="e-mail" size="100" maxlength="100"/>
+ 			<br>
+ 			<label for="ciudad">Ciudad</label>
+ 			<select name="ciudad">
+ 				<option value="CO">CÓRDOBA</option>	
+ 				<option value="SE" selected>SEVILLA</option>	
+ 				<option value="HU">HUELVA</option>	
+ 				<option value="CA">CÁDIZ</option>	
+ 				<option value="MA">MÁLAGA</option>	
+ 				<option value="GR">GRANADA</option>	
+				<option value="AL">ALMERIA</option>
+				<option value="JA">JAÉN</option>
+ 			</select>
+ 			<br/>
+ 			<label for="obs">Observaciones</label>
+ 			<textarea name="obs" rows="5" cols="80">Introduce un comentario</textarea>
+ 			
+ 			</fieldset>
+
+ 		<input type="submit" id="aceptar" name="aceptar" value="Aceptar"/>	
+ 		<input type="reset"  value="Limpiar"/>
+ 	</form>	
+</body>
+</html>
