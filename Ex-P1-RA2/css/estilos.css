@@ -1,0 +1,204 @@
+
+@font-face{
+    font-family: "Honeyday";
+    src: url ("../ttf/Honeyday.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+/* ---- Estilos básicos ---------------------------------------------------- */
+body {
+
+	background: Beige ; 
+	font: 10pt "verdana", sans-serif;
+	color: MediumBlue;	
+}
+
+span {
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-color: red; 
+}
+#contenedor {
+	width:95%;
+	margin: 10px auto 0 auto;
+}
+#cabecera {
+width: 90%;
+height: 100px;
+background: #233C9B url("../img/cabecera.gif") no-repeat;
+position: relative;
+}
+
+/* ---- Cabecera ----------------------------------------------------------- */
+
+#cabecera h1{
+    	font-family: Honeyday;
+    	font-size: 40pt;
+        text-transform: capitalize;
+        text-shadow: 2px 3px 1px gray;
+    	color:Gold;
+    	position: absolute;
+		top: 0px;
+		left:50px;
+}
+
+#contenido {
+	width: 90%;
+	margin: 5px;
+	padding: 0px;
+}
+#contenido #principal {
+	margin:1em;
+	float: left;
+	width: 60%;
+	margin-top: 15px;
+	padding:10px;
+	background: white;
+	border-radius: 20px;
+}
+#contenido #secundario {
+	float: left;
+	width: 32%;
+	margin: 15px 0 0 0;
+	padding: 5px;
+	background: Azure;
+	border-radius: 20px;
+}
+#pie {
+	clear: both;
+	height: 60px;
+	position: relative;
+	top:10px;
+	margin: 10px;
+
+}
+
+/* Tablas  */
+table {
+	position: relative;
+	top: 10px;
+	width: 90%;
+	margin:10px;
+}
+
+
+th, tfoot td {
+	background-color: #CEDBF9;
+	font: italic bold 12pt arial, sans-serif;
+	color: darkgray;
+	text-align: center;
+	font-variant: small-caps;
+	border: 2px inset white;
+}
+
+td{
+	text-align: center;
+	border: 2px inset white;
+}
+
+
+/* ---- Menú --------------------------------------------------------------- */
+#menu {
+	width: 90%;
+	height: 50px;
+	background: Navy;
+	margin: 5px 5px 5px 0px;
+	padding: 10px 0 0 0;
+}
+#menu ul {
+margin: 0 10px;
+padding: 0;
+list-style:none;
+}
+#menu ul li {
+margin: 5px 5px 0 0;
+padding: 0;
+float:left;
+
+}
+#menu ul li a {
+	display: block;
+	position: relative;
+	padding: 5px 15px;
+	border: 2px solid darkgrey;
+	background: MediumBlue;
+	color: LightSkyBlue;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: pointer;
+}
+#menu ul li a:hover {
+background: #fff;
+color: orange;
+}
+
+
+/* ---- Contenidos --------------------------------------------------------- */
+#contenido #principal .articulo {
+clear: both;
+margin: 5px;
+background:Azure;
+
+}
+#contenido .articulo h2 {
+margin: 10px 10px;
+padding: 10px;
+background: LightBlue;
+color: MidnightBlue;
+border-radius: 50px;
+position: relative;
+top:0.5em;
+}
+
+.articulo  img{
+	float: left;
+	margin:5px;
+	border: 2px solid black;
+}
+
+#contenido .info {
+margin: 10px;
+padding-bottom: 8px;
+border-bottom: 2px solid #DEE5FD;
+color:MediumBlue;
+text-align: justify;
+text-indent: 2em;
+}
+
+#contenido #secundario h3 {
+padding: 10px 0 10px 10px;
+margin: 10px;
+background: LightBlue;
+color: MidnightBlue;
+}
+
+form
+{
+	width: 90%;
+}
+
+.botonera
+{
+	padding: 2%;
+	float: right;
+}
+label
+{
+	display: block;
+	padding: 3px;
+}
+
+
+
+/* ---- Pie ---------------------------------------------------------------- */
+#pie p {
+	width: 90%;
+	padding: 10px;
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	background: Lightblue;
+	border: 2px solid blue;
+	border-radius: 10px;
+	
+}

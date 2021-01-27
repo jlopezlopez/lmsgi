@@ -1,0 +1,48 @@
+
+body{
+	background: black;
+
+}
+
+.uno
+{
+	background: red;
+	width: 25%;
+	float: left;
+	margin: 5px;
+	border: 2px solid white;
+	padding: 3px;
+	position: relative;
+	top:10px;
+	left: 20px;
+
+}
+.dos
+{
+	background: blue;
+	width: 25%;
+	float: left;
+	margin: 5px;
+	border: 2px solid white;
+	padding: 3px;
+	position: relative;
+	height: 100px;
+}
+.tres
+{
+	background: green;
+	width: 25%;
+	float: left;
+	margin: 5px;
+	border: 2px solid white;
+	padding: 3px;
+	position: absolute;
+	top:10px;
+}
+.unir
+{
+	background: white;
+	
+	width: 50%;
+	float: left;
+}

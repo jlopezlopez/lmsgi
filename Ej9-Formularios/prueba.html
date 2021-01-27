@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+<title>Formulario de prueba de HTML5</title>
+</head>
+<body>
+<h1>Controles de formulario</h1>
+<form action="" method="get">
+	<fieldset>
+		<legend>Datos personales</legend>
+		<p>
+		<label for="name_control">Nombre: <input type="text" name="name_control" autofocus required />
+		</label>
+		</p>
+
+		<p>
+		Correo electrónico: <input type="email" name="email_control" required />
+		</p>
+
+		<p>
+		<label for="url_contro">URL: </label>
+		<input type="url" name="url_control" placeholder="Escribe la URL de tu página web personal" />
+		</p>
+		 	<label for="ciudad">Ciudad</label>
+ 			<select name="ciudad">
+ 				<optgroup label="Andalucía">
+ 				<option value="CO">CÓRDOBA</option>	
+ 				<option value="SE" selected>SEVILLA</option>	
+ 				<option value="HU">HUELVA</option>	
+ 				<option value="CA">CÁDIZ</option>	
+ 				<option value="MA">MÁLAGA</option>	
+ 				<option value="GR">GRANADA</option>	
+				<option value="AL">ALMERIA</option>
+				<option value="JA">JAÉN</option>
+				</optgroup>
+				<optgroup label="Extremadura">
+					<option value="BA">BADAJOZ</option>
+					<option value="CA">CÁCERES</option>
+				</optgroup>
+ 			</select>
+</fieldset>
+<!-- Otros campos -->
+<fieldset>
+	<legend>Otros Datos</legend>
+<p>
+	<label for="fecha">Fecha:</label>
+	<input type="date" name="fecha"/>
+</p>
+<p>
+	<label for="tiempo">Tiempo:</label>
+	<input type="Time" name="tiempo"/>
+</p>
+<p>
+	<label for="fecha_hora">Fecha y Hora:</label>
+	<input type="datetime" name="fecha_hora" placeholder="dd/mm/aaaa hh:mm" />
+</p>
+<p>
+	<label for="Mes">Mes:</label>
+	<input type="Month" name="Mes"  />
+</p>
+<p>
+	<label for="semana">Semana:</label>
+	<input type="week" name="semana"  />
+</p>
+<p>
+	<label for="Numero">Número:</label>
+	<input type="Number" name="numero" min="-10" max="10" size="2"/>
+</p>
+<p>
+	<label for="color">Color:</label>
+	<input type="color" name="color" value="#ff0000"/>
+</p>
+<fieldset>
+	<legend>Otros controles</legend>
+	<p>
+	Aficiones
+	<label>
+	<input type="checkbox" name="cine" value="1" checked />Cine</label>
+	<label>
+	<input type="checkbox" name="Deporte" value="1"/>Deporte</label>
+</p>
+<p>
+	Formas de pago <br/>
+	<input type="radio" name="pago" value="V"/><label>Visa</label>
+	<label><input type="radio" name="pago" value="A"/>American Express</label>
+	<label><input type="radio" name="pago" value="M"/>Master Card</label>
+
+</p>
+</fieldset>
+</fieldset>
+<p>
+<label for="equipo">Equipo de fútlbol
+	<input type="text" name="equipo" list="equipos">
+</label>
+<datalist id="equipos">
+	<option value="Real Madrid"/>
+	<option value="Barcelona"/>
+</datalist>
+
+</p>
+<p>
+<input type="submit" value="Enviar" />
+<input type="reset" value="Borrar" />
+</p>
+</form>
+</body>
+</html>
