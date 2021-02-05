@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Feed sobre noticias de las TIC</title>
+		<link>http://www.iesgrancapitan.org</link>
+		<description>
+			Canal de noticias sobre las TIC. Aquí encontrará información
+			sobre nuevos dispositivos hardware, avances en sistemas operativos
+			y nuevas tecnologías de Internet.
+		</description>
+		<category>TIC informática internet sistemas</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<image>
+			<url>https://www.legaltoday.com/wp-content/uploads/opinion/tics-trabajo.jpg</url>
+			<title>Feed sobre noticias de las TIC</title>
+			<description>Canal RSS de las TIC</description>
+			<link>http://www.iesgrancapitan.org</link>
+		</image>
+		<language>es-es</language>
+		<lastBuildDate>Wed, 27 Jan 2021 12:15:00 +0100</lastBuildDate>
+		<webMaster>alguien@loquesea.com</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>Discos SSD con interfaz NVMe</title>
+			<description>Los discos duros SSD con interfaz NVMe es la opción preferida
+			en los nuevos ordenadores portátiles por su rendimiento y posibilidades
+			de diseño. Aquí podrá ver información de las enormes ventajas de instalar
+			este tipo de discos duros, en lugar de los tradicionales con interfaz
+			SATA.</description>
+			<link>https://www.elespanol.com/omicrono/tecnologia/20181028/ssd-nvme-instalan-deberias-comprarte/348965861_0.html</link>
+			<author>mfernandez@elespanol.com</author>
+			<category>hardware</category>
+			<enclosure url="https://drive.google.com/file/d/1WsgyeJBj7HTdbzoOXsSmnVrybX_p5EhP/view?usp=sharing"
+				type="video/webm" length="32572719"/>
+			<pubDate>Wed, 20 Jan 2021 12:25:00 +0100</pubDate>
+		</item>
+		
+		<item>
+			<title>Raspberry Pi 4</title>
+			<description>Nueva versión de la conocida miniplaca Raspberry con capacidades
+			de compute ampliadas.
+			</description>
+			<link>https://www.pccomponentes.com/caracteristicas-raspberry-pi-4</link>
+			<author>info@pccomponentes.com</author>
+			<category>hardware raspberry miniplacas</category>
+			<enclosure
+			    url="https://drive.google.com/file/d/1Vf_AP5GGDQJKHCOSfhMfaA9Qqx8yYogN/view?usp=sharing"
+			    type="video/webm" length="16347298"/>
+			<pubDate>Wed, 27 Jan 2021 12:15:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -12,10 +12,22 @@
 	"buffers":
 	[
 		{
-			"file": "Ej14-Grid.html",
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t<title>1ºDAW-Examen HMTL-CSS Responsive</title>\n\t<link href='https://fonts.googleapis.com/css?family=Source Code Pro' rel='stylesheet'>\n\t<link rel=\"stylesheet\" href=\"css/estilos.css\">\n</head>\n<body>\n\t<h1 class=\"color_h1\">CSS Grid Layout </h1>\n\n\t<div class=\"Contenedor-Grid1\">\n  \t\t<div class=\"grid-item item1-Grid1\"><h3>Header</h3></div>\n  \t\t<div class=\"grid-item item2-Grid1\"><h3>Menu</h3></div>\n  \t\t<div class=\"grid-item item3-Grid1\"><h3>Main</h3></div>\n  \t\t<div class=\"grid-item item4-Grid1\"><h3>Right</h3></div>\n  \t\t<div class=\"grid-item item5-Grid1\"><h3>Footer</h3></div>\n\t</div>\n\n</body>\n</html>",
+			"file": "/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P2-RA2/Examen2.html",
+			"file_size": 747,
+			"file_write_time": 132565829088472608,
 			"settings":
 			{
-				"buffer_size": 1417,
+				"buffer_size": 727,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P2-RA2/css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 1054,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -59,10 +71,14 @@
 	],
 	"file_history":
 	[
-		"/D/html-lmsgi/Ej14-Grid/css/estilos1.css",
-		"/D/html-lmsgi/Ej14-Grid/css/estilos.css",
-		"/D/html-lmsgi/ej2-listas/listas.html",
 		"/D/html-lmsgi/Ej14-Grid/Ej14-Grid.html",
+		"/D/html-lmsgi/Ej14-Grid/Ej14-1-Grid.html",
+		"/D/html-lmsgi/Ej15-Galeria/ej15.html",
+		"/D/html-lmsgi/Ej14-Grid/css/estilos2.css",
+		"/D/html-lmsgi/Ej15-Galeria/css/estilos.css",
+		"/D/html-lmsgi/Ej14-Grid/css/estilos.css",
+		"/D/html-lmsgi/Ej14-Grid/css/estilos1.css",
+		"/D/html-lmsgi/ej2-listas/listas.html",
 		"/D/html-lmsgi/Ej13-Flex/Ej13-2-responsive.html",
 		"/C/Users/Fita/Downloads/Actv3-carlos/Nueva carpeta/index.html",
 		"/C/Users/Fita/Downloads/Actv3-carlos/Nueva carpeta/main.css",
@@ -182,15 +198,11 @@
 		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-1.html",
 		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-2.html",
 		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-7.html",
-		"/D/html-lmsgi/Ej7-visibilidad-display y float/ejercicio7-menu.html",
-		"/D/html-lmsgi/Ej8-maquetacion/ej8-1.html",
-		"/D/html-lmsgi/Ej8-maquetacion/Solucion/css/ej8-1.html",
-		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-3.html",
-		"/D/html-lmsgi/Ej7-visibilidad-display y float/act7-4.html"
+		"/D/html-lmsgi/Ej7-visibilidad-display y float/ejercicio7-menu.html"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -204,6 +216,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";\n",
+			"img",
 			"row",
 			"col-25",
 			"alert",
@@ -235,24 +249,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Ej14-Grid.html",
+					"file": "/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P2-RA2/Examen2.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1417,
+						"buffer_size": 727,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								298,
-								298
+								123,
+								123
 							]
 						],
 						"settings":
@@ -261,7 +275,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 633.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/institutos/IES GRAN CAPITAN/DAW/LMSGI/LMSGI/UT2/Examen/Ex_P2-RA2/css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 15.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -272,7 +314,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 42.0
+		"height": 41.0
 	},
 	"input":
 	{
@@ -309,7 +351,7 @@
 	"project": "p14.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 78.0
 	},
 	"save_all_on_build": true,
 	"select_file":
